@@ -24,4 +24,11 @@ public class SeckillExecution {
         this.stateInfo = stateEnum.getStateInfo();
         this.successKilled = successKilled;
     }
+
+    public SeckillExecution(long seckillId, SeckillStatEnum stateEnum) {
+        this.seckillId = seckillId;
+        this.state = stateEnum.getState();
+        this.stateInfo = stateEnum.getStateInfo();
+        this.successKilled = successKilled;
+    }
 }
