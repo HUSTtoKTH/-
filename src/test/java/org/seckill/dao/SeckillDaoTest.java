@@ -42,4 +42,5 @@ public class SeckillDaoTest {
             System.out.println(seckill);
         }
     }
+
 }
