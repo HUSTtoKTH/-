@@ -7,19 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac3313e6-6b40-4137-a302-3125aa3e74ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/seckill/dao/cache/RedisDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/sql/seckill.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/seckill/dao/cache/RedisDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/seckill/dao/SeckillDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/seckill/dao/SeckillDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/seckill/service/SeckillService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/seckill/service/SeckillService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/seckill/service/impl/SeckillServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/seckill/service/impl/SeckillServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SeckillDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SeckillDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/seckill/dao/SeckillDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/seckill/dao/SeckillDaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/seckill/service/SeckillServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/seckill/service/SeckillServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +124,7 @@
       <recent name="C:\Users\98234\Desktop\项目\秒杀\src\main\webapp\WEB-INF" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SeckillServiceTest.excuteSeckillPro">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.34">
     <configuration name="RedisDaoTest.testSeckill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="秒杀" />
       <extension name="coverage">
@@ -449,6 +438,9 @@
       <workItem from="1589025588663" duration="10069000" />
       <workItem from="1589198218894" duration="14296000" />
       <workItem from="1589311234675" duration="913000" />
+      <workItem from="1589920799252" duration="3731000" />
+      <workItem from="1589982674881" duration="602000" />
+      <workItem from="1590072151816" duration="71000" />
     </task>
     <servers />
   </component>
@@ -476,58 +468,58 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="543" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589028945956" />
-    <state x="601" y="196" key="FileChooserDialogImpl" timestamp="1589311344907">
+    <state x="601" y="196" key="FileChooserDialogImpl" timestamp="1589920948830">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="601" y="196" key="FileChooserDialogImpl/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311344907" />
-    <state width="1431" height="381" key="GridCell.Tab.0.bottom" timestamp="1589311213343">
+    <state x="601" y="196" key="FileChooserDialogImpl/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920948830" />
+    <state width="1242" height="417" key="GridCell.Tab.0.bottom" timestamp="1589920931635">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="381" key="GridCell.Tab.0.bottom/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311213343" />
-    <state width="1431" height="381" key="GridCell.Tab.0.center" timestamp="1589311213342">
+    <state width="1242" height="417" key="GridCell.Tab.0.bottom/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920931635" />
+    <state width="1242" height="417" key="GridCell.Tab.0.center" timestamp="1589920931634">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="381" key="GridCell.Tab.0.center/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311213342" />
-    <state width="1431" height="381" key="GridCell.Tab.0.left" timestamp="1589311213342">
+    <state width="1242" height="417" key="GridCell.Tab.0.center/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920931634" />
+    <state width="1242" height="417" key="GridCell.Tab.0.left" timestamp="1589920931633">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="381" key="GridCell.Tab.0.left/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311213342" />
-    <state width="1431" height="381" key="GridCell.Tab.0.right" timestamp="1589311213342">
+    <state width="1242" height="417" key="GridCell.Tab.0.left/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920931633" />
+    <state width="1242" height="417" key="GridCell.Tab.0.right" timestamp="1589920931634">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="381" key="GridCell.Tab.0.right/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311213342" />
-    <state width="1242" height="214" key="GridCell.Tab.1.bottom" timestamp="1589311213340">
+    <state width="1242" height="417" key="GridCell.Tab.0.right/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920931634" />
+    <state width="1242" height="417" key="GridCell.Tab.1.bottom" timestamp="1589920931636">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1242" height="214" key="GridCell.Tab.1.bottom/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311213340" />
-    <state width="1242" height="214" key="GridCell.Tab.1.center" timestamp="1589311213340">
+    <state width="1242" height="417" key="GridCell.Tab.1.bottom/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920931636" />
+    <state width="1242" height="417" key="GridCell.Tab.1.center" timestamp="1589920931636">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1242" height="214" key="GridCell.Tab.1.center/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311213340" />
-    <state width="1242" height="214" key="GridCell.Tab.1.left" timestamp="1589311213340">
+    <state width="1242" height="417" key="GridCell.Tab.1.center/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920931636" />
+    <state width="1242" height="417" key="GridCell.Tab.1.left" timestamp="1589920931636">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1242" height="214" key="GridCell.Tab.1.left/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311213340" />
-    <state width="1242" height="214" key="GridCell.Tab.1.right" timestamp="1589311213340">
+    <state width="1242" height="417" key="GridCell.Tab.1.left/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920931636" />
+    <state width="1242" height="417" key="GridCell.Tab.1.right" timestamp="1589920931636">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1242" height="214" key="GridCell.Tab.1.right/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311213340" />
-    <state width="1242" height="214" key="GridCell.Tab.2.bottom" timestamp="1589311213341">
+    <state width="1242" height="417" key="GridCell.Tab.1.right/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920931636" />
+    <state width="1242" height="417" key="GridCell.Tab.2.bottom" timestamp="1589920931636">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1242" height="214" key="GridCell.Tab.2.bottom/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311213341" />
-    <state width="1242" height="214" key="GridCell.Tab.2.center" timestamp="1589311213341">
+    <state width="1242" height="417" key="GridCell.Tab.2.bottom/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920931636" />
+    <state width="1242" height="417" key="GridCell.Tab.2.center" timestamp="1589920931636">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1242" height="214" key="GridCell.Tab.2.center/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311213341" />
-    <state width="1242" height="214" key="GridCell.Tab.2.left" timestamp="1589311213340">
+    <state width="1242" height="417" key="GridCell.Tab.2.center/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920931636" />
+    <state width="1242" height="417" key="GridCell.Tab.2.left" timestamp="1589920931636">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1242" height="214" key="GridCell.Tab.2.left/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311213340" />
-    <state width="1242" height="214" key="GridCell.Tab.2.right" timestamp="1589311213341">
+    <state width="1242" height="417" key="GridCell.Tab.2.left/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920931636" />
+    <state width="1242" height="417" key="GridCell.Tab.2.right" timestamp="1589920931636">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1242" height="214" key="GridCell.Tab.2.right/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311213341" />
+    <state width="1242" height="417" key="GridCell.Tab.2.right/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589920931636" />
     <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1589310991793">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -540,10 +532,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="611" y="185" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311255258" />
-    <state x="430" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1589311234340">
+    <state x="430" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1590072215282">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="430" y="260" key="com.intellij.ide.util.TipDialog/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589311234340" />
+    <state x="430" y="260" key="com.intellij.ide.util.TipDialog/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1590072215282" />
     <state x="509" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589309832372">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -552,6 +544,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="426" y="64" width="621" height="735" key="find.popup/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1588870521879" />
+    <state x="147" y="136" key="new project wizard" timestamp="1589926236305">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="147" y="136" key="new project wizard/0.0.1474.864/-1920.9.1920.1080@0.0.1474.864" timestamp="1589926236305" />
     <state x="394" y="197" key="run.anything.popup" timestamp="1589027934282">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
